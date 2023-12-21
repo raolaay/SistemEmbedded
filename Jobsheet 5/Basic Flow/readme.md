@@ -21,10 +21,10 @@
   6. Dokumentasikan output dari program tersebut.
 
 ### b. Hasil dan Pembahasan
-Basic flow dimulai dengan memastikan perangkat komputer terpasang node-red kemudian membuat basic flow dan mengonfigurasi node input dan node output.
+<p align="justify"> Basic flow dimulai dengan memastikan perangkat komputer terpasang node-red kemudian membuat basic flow dan mengonfigurasi node input dan node output.
 Node-input pada Node-RED adalah elemen awal dalam alur kerja yang menerima data dari sumber tertentu, sedangkan node-output adalah elemen akhir yang 
 mengarahkan data ke destinasi atau tindakan sesuai dengan hasil pemrosesan dalam alur kerja tersebut.
-Selanjutnya Klik tombol “Deploy” yang terletak pada pojok kanan atas UI untuk menjalankan program. 
+Selanjutnya Klik tombol “Deploy” yang terletak pada pojok kanan atas UI untuk menjalankan program. </p>
 
 ![Hasil Basic Flow 5A](https://github.com/raolaay/SistemEmbedded/assets/145360333/42b644f6-3c9f-4a2b-a85f-4fcc62e15cfe)
 
