@@ -11,10 +11,10 @@ Jobsheet ini bertujuan untuk memahami dasar pemrograman pada Node-Red.
 dan membuat application server sederhana menggunakan
 Node-Red. </p>
 Adapun sub-job pada jobsheet ini yaitu:
-  1. Basic Flow
-  2. Menggunakan Function Node
-  3. Menggunakan Switch Node
-  4. Menggunakan JSon Parsing
+  1. <a href="https://github.com/raolaay/SistemEmbedded/tree/master/Jobsheet%205/Basic%20Flow">Basic Flow</a>
+  2. <a href="https://github.com/raolaay/SistemEmbedded/tree/master/Jobsheet%205/Menggunakan%20Function%20Node">Menggunakan Function Node</a>
+  3. <a href="https://github.com/raolaay/SistemEmbedded/tree/master/Jobsheet%205/Menggunakan%20Switch%20Node">Menggunakan Switch Node</a>
+  4. <a href="https://github.com/raolaay/SistemEmbedded/tree/master/Jobsheet%205/Menggunakan%20JSon%20Parsing">Menggunakan JSon Parsing</a>
 
 
 ## ALAT DAN BAHAN
