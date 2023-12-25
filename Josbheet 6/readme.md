@@ -11,8 +11,11 @@ kompresi data dan data reduction untuk melakukan efisiensi energi (Ali, Shah and
 Arshad, 2016)</p>
 <p align="justify">Jobsheet ini bertujuan untuk memahami alur kerja, kegunaan dan manfaat protokol
 MQTT serta mengimplementasikan protokol MQTT pada sistem IoT untuk monitoring dan kendali.</p>
-Sub job pada praktikum ini:
- A Koneksi MQTT Broker
+
+Adapun sub-job pada jobsheet ini yaitu:
+  1. Koneksi MQTT Broker
+  2. Menerima Data JSON Melalui Protokol MQTT
+  3. Mengirim Dummy Data untuk Simulasi I/O Menggunakan Hardware
  
 ## Alat dan Bahan
 1) ESP32
