@@ -128,4 +128,6 @@ Diterima [Dr]</th>
     <td>0</td>
   </tr>
 </table>
+
+> *Note: Dokumentasi percobaan dapat dilihat pada folder "dokumentasi transmisi data"*
 <p align="justify">Dari hasil tabel diatas dapat diambil kesimpulan bahwa pengiriman berjalan dengan baik dengan jarak transmisi 1-3 meter. Hal ini ditunjukkan dengan nilai persentase packet loss yang adalah 0% dan keberhasilan pengiriman 100%. </p>
