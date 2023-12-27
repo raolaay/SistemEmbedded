@@ -1,7 +1,7 @@
 # A. Memperoleh MAC Address ESP32 Receiver
 
 ### a. Source Code
-Kode program dapat dilihat <a href="https://github.com/raolaay/SistemEmbedded/blob/master/Jobsheet%202.1/A1_Mendapatkan_MAC_Address/A1_Mendapatkan_MAC_Address.ino">di sini</a>
+Kode program dapat dilihat <a href="https://github.com/raolaay/SistemEmbedded/blob/master/Jobsheet%202.1/A.%20Mendapatkan_MAC_Address/Mendapatkan_MAC_Address.ino">di sini</a>
 
 ### b. Hasil dan Pembahasan
 <p align="justify"> Output pada percobaan ini adalah mendapatkan MAC Address dari ESP32 yang ditampilkan melalui serial monitor. 
