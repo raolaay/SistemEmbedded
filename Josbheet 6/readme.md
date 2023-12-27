@@ -13,9 +13,9 @@ Arshad, 2016)</p>
 MQTT serta mengimplementasikan protokol MQTT pada sistem IoT untuk monitoring dan kendali.</p>
 
 Adapun sub-job pada jobsheet ini yaitu:
-  1. Koneksi MQTT Broker
-  2. Menerima Data JSON Melalui Protokol MQTT
-  3. Mengirim Dummy Data untuk Simulasi I/O Menggunakan Hardware
+  1. <a href="Josbheet 6/A. Koneksi MQTT Broker">Koneksi MQTT Broker</a>
+  2. <a href="Jobsheet 6/B. Menerima Data JSON Melalui Protokol MQTT">Menerima Data JSON Melalui Protokol MQTT</a>
+  3. <a href="Jobsheet 6/C. Mengirim Dummy Data untuk Simulasi IO Menggunakan Hardware">Mengirim Dummy Data untuk Simulasi I/O Menggunakan Hardware</a>
  
 ## Alat dan Bahan
 1) ESP32
