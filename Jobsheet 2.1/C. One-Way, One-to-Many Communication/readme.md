@@ -5,7 +5,7 @@
 ![image](https://github.com/raolaay/SistemEmbedded/assets/145360333/dd0c1f6d-1e55-430e-aebd-a127006455b5)
 
 ### b. Source Code
-Kode program sebagai sender dapat dilihat <a href="">di sini.</a>
+Kode program sebagai sender dapat dilihat <a href="https://github.com/raolaay/SistemEmbedded/blob/master/Jobsheet%202.1/C.%20One-Way%2C%20One-to-Many%20Communication/Sender_4ESP_%20Data%20Sama.ino">di sini.</a>
 
 ### c. Hasil dan Pembahasan
 <p align="justify"> Pada saat mengirim pesan yang sama ke beberapa board ESP32, kelompok kami berperan sebagai
@@ -26,7 +26,7 @@ https://github.com/raolaay/SistemEmbedded/assets/145360333/9c380021-0fee-428d-99
 ![image](https://github.com/raolaay/SistemEmbedded/assets/145360333/dd0c1f6d-1e55-430e-aebd-a127006455b5)
 
 ### b. Source Code
-Kode program sebagai receiver dapat dilihat <a href="">di sini.</a>
+Kode program sebagai receiver dapat dilihat <a href="https://github.com/raolaay/SistemEmbedded/blob/master/Jobsheet%202.1/C.%20One-Way%2C%20One-to-Many%20Communication/Receiver_4ESP_3_Data_Berbeda.ino">di sini.</a>
 
 ### c. Hasil dan Pembahasan
 <p align="justify">Kali ini kelompok kami berperan sebagai slave atau receiver yang akan menerima data dari master. Data yang dikirimkan
