@@ -4,7 +4,7 @@
 ![image](https://github.com/raolaay/SistemEmbedded/assets/145360333/e783c8c7-df7c-4207-bdc9-a0a0b949ff31)
 
 ### b. Source Code
-Kode program sebagai master dapat dilihat <a href="">di sini</a>.
+Kode program sebagai master dapat dilihat <a href="https://github.com/raolaay/SistemEmbedded/blob/master/Jobsheet%202.1/D.%20One-Way%2C%20Many-to-One%20Communication/D_Sender.ino">di sini</a>.
 
 ### c. Hasil dan Pembahasan
 <p align="justify">Dalam praktikum ini kelompok kami berperan sebagai master atau pengirim dimana nanti
